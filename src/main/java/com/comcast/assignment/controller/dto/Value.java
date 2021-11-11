@@ -1,4 +1,4 @@
-package com.comcast.interview.controller.dto;
+package com.comcast.assignment.controller.dto;
 
 import javax.validation.constraints.NotEmpty;
 

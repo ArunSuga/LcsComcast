@@ -1,4 +1,4 @@
-package com.comcast.interview.service;
+package com.comcast.assignment.service;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -11,9 +11,9 @@ import javax.validation.Valid;
 import org.springframework.stereotype.Service;
 import org.springframework.validation.annotation.Validated;
 
-import com.comcast.interview.controller.dto.LCSResponse;
-import com.comcast.interview.controller.dto.Value;
-import com.comcast.interview.exception.RequestNotValidException;
+import com.comcast.assignment.controller.dto.LCSResponse;
+import com.comcast.assignment.controller.dto.Value;
+import com.comcast.assignment.exception.RequestNotValidException;
 
 @Service
 public class LCSService {

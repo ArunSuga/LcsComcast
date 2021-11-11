@@ -1,11 +1,9 @@
-package com.comcast.interview;
+package com.comcast.assignment;
 
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
-
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -17,9 +15,9 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.web.client.RestTemplate;
 
-import com.comcast.interview.controller.dto.LCSRequest;
-import com.comcast.interview.controller.dto.LCSResponse;
-import com.comcast.interview.controller.dto.Value;
+import com.comcast.assignment.controller.dto.LCSRequest;
+import com.comcast.assignment.controller.dto.LCSResponse;
+import com.comcast.assignment.controller.dto.Value;
 
 
 @SpringBootTest(webEnvironment=WebEnvironment.RANDOM_PORT)

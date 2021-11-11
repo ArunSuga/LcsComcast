@@ -1,4 +1,4 @@
-package com.comcast.interview.exception;
+package com.comcast.assignment.exception;
 import java.util.Date;
 
 public class ExceptionResponse {

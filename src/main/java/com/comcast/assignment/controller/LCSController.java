@@ -1,4 +1,4 @@
-package com.comcast.interview.controller;
+package com.comcast.assignment.controller;
 
 
 import java.util.HashSet;
@@ -16,10 +16,10 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.comcast.interview.controller.dto.LCSRequest;
-import com.comcast.interview.controller.dto.LCSResponse;
-import com.comcast.interview.controller.dto.Value;
-import com.comcast.interview.service.LCSService;
+import com.comcast.assignment.controller.dto.LCSRequest;
+import com.comcast.assignment.controller.dto.LCSResponse;
+import com.comcast.assignment.controller.dto.Value;
+import com.comcast.assignment.service.LCSService;
 
 
 @RestController

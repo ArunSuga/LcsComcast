@@ -1,4 +1,4 @@
-package com.comcast.interview.controller.dto;
+package com.comcast.assignment.controller.dto;
 
 import java.util.List;
 

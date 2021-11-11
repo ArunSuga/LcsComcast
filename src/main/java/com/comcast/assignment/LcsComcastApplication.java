@@ -1,4 +1,4 @@
-package com.comcast.interview;
+package com.comcast.assignment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
